@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "preview server",
+      "type": "shell",
+      "command": "zola serve",
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
+    }
+  ]
+}
