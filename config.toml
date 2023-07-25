@@ -1,16 +1,20 @@
-# The URL the site will be built for
 base_url = "https://wiki.kanjon.art"
-
-# Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
-
-# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
+generate_feed = false
+
+theme = "anpu"
+taxonomies = [
+  { name = "categories" },
+  { name = "tags" },
+]
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 
 [extra]
-# Put all your custom variables here
+anpu_menu_links = [
+  { url = "$BASE_URL", name = "home" },
+  { url = "https://mt.kanjon.art", name = "kanjon.art" },
+  { url = "$BASE_URL/about/", name = "about" },
+]
