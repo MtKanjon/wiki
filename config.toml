@@ -1,0 +1,13 @@
+base_url = "https://wiki.kanjon.art"
+compile_sass = true
+build_search_index = true
+minify_html = true
+generate_feed = false
+
+taxonomies = [
+  { name = "categories" },
+  { name = "tags" },
+]
+
+[markdown]
+highlight_code = false

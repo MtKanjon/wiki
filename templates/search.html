@@ -1,0 +1,22 @@
+{% extends "index.html" %}
+
+{% block title %}{{ page.title }}{% endblock %}
+
+{% block extrahead %}
+<script defer src="{{ get_url(path="elasticlunr.min.js") }}"></script>
+<script defer src="{{ get_url(path="search_index.en.js") }}"></script>
+<script defer src="{{ get_url(path="search.js") }}"></script>
+{% endblock head %}
+
+{% block searchbox %}
+<input type="search" name="q" placeholder="search" id="query" autofocus />
+{% endblock searchbox %}
+
+{% block content %}
+
+<h1>{{ page.title }}</h1>
+<div id="results">
+  loading results...
+</div>
+
+{% endblock content %}

@@ -1,0 +1,16 @@
+{
+  "name": "wiki.kanjon.art",
+  "image": "mcr.microsoft.com/devcontainers/base:alpine-3.18",
+  "forwardPorts": [
+    1111
+  ],
+  "postCreateCommand": "sudo apk add --no-cache zola",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "EditorConfig.EditorConfig",
+        "karunamurti.tera"
+      ]
+    }
+  }
+}
