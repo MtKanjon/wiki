@@ -1,10 +1,10 @@
 * {
-  font-family: Helvetica, sans-serif;
+  font-family: Nunito Sans, Helvetica, sans-serif;
 }
 
 body {
   background: #eee;
-  color: #222;
+  color: #333;
   font-size: 1.1rem;
 
   max-width: 1000px;
@@ -25,7 +25,7 @@ body {
     padding: 0.5rem !important;
     font-size: 0.8em !important;
     img {
-      width: 20% !important;
+      width: 25% !important;
     }
     nav {
       margin-top: 0 !important;
@@ -34,13 +34,13 @@ body {
       }
       input[type='search'] {
         margin-top: 0.2em !important;
-        max-width: 100px;
+        width: 25% !important;
       }
     }
   }
   main {
     border-left-width: 0 !important;
-    padding-left: 0 !important;
+    padding: 0 !important;
   }
 }
 
@@ -75,7 +75,7 @@ header {
 
 main {
   border-left: 1px solid #ddd;
-  padding-left: 1rem;
+  padding: 1rem;
 }
 
 footer {
@@ -96,6 +96,16 @@ footer {
 a {
   text-decoration: none;
   color: #1a90be;
+}
+
+h1, h2, h3 {
+  color: #444;
+}
+
+hr {
+  width: 90%;
+  opacity: 0.8;
+  border: 1px solid #c2c2c2;
 }
 
 #results {
