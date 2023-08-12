@@ -34,12 +34,13 @@ body {
       }
       input[type='search'] {
         margin-top: 0.2em !important;
-        max-width: 300px;
+        max-width: 100px;
       }
     }
   }
   main {
     border-left-width: 0 !important;
+    padding-left: 0 !important;
   }
 }
 
