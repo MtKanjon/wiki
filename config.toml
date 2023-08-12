@@ -1,9 +1,9 @@
 base_url = "https://wiki.kanjon.art"
 compile_sass = true
 build_search_index = true
+minify_html = true
 generate_feed = false
 
-theme = "anpu"
 taxonomies = [
   { name = "categories" },
   { name = "tags" },
@@ -11,10 +11,3 @@ taxonomies = [
 
 [markdown]
 highlight_code = false
-
-[extra]
-anpu_menu_links = [
-  { url = "$BASE_URL", name = "home" },
-  { url = "https://mt.kanjon.art", name = "kanjon.art" },
-  { url = "$BASE_URL/about/", name = "about" },
-]
