@@ -1,5 +1,6 @@
 +++
 title = "Welcome to Kanjon's Clips"
+slug = "welcome"
 date = 2023-08-15T00:00:00Z
 extra.kcid = "K001"
 extra.embed_url = "https://www.youtube.com/embed/Rp9yjtMVu04"
