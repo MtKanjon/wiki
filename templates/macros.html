@@ -1,6 +1,8 @@
 {% macro pagenav() %}
+{% set parent_section = get_section(path=page.ancestors | last) %}
 <nav>
   {% if page.higher %}<a href="{{ page.higher.path }}">⬅️ older</a>{% endif %}
   {% if page.lower %}<a href="{{ page.lower.path }}">newer ➡️</a>{% endif %}
+  {% if page.ancestors %}<a href="{{ parent_section.path }}">back to {{ parent_section.title }}</a>{% endif %}
 </nav>
 {% endmacro %}
