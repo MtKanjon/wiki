@@ -35,8 +35,10 @@ header {
     }
 
     input[type='search'] {
+      text-align: center;
       font-size: 1.1em;
       margin-top: 1em;
+      padding: 0.2em;
       width: 100%;
     }
   }
@@ -154,19 +156,20 @@ hr {
     grid-column: auto;
   }
   header {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 25% 1fr;
     padding: 0.5rem;
     font-size: 0.8em;
-    img {
-      width: 25%;
-    }
     nav {
       margin-top: 0;
+      padding-left: 30px;
       a {
         font-weight: bold;
       }
       input[type='search'] {
         margin-top: 0.2em;
-        width: 25%;
+        width: 80%;
       }
     }
   }
