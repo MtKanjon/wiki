@@ -4,7 +4,7 @@
     {
       "label": "preview server",
       "type": "shell",
-      "command": "zola serve",
+      "command": "zola serve --drafts",
       "runOptions": {
         "runOn": "folderOpen"
       }
