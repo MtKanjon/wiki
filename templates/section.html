@@ -6,9 +6,9 @@
 {{ section.content | safe }}
 
 <ul>
-{% for page in section.pages %}
+{% for page in section.pages | reverse %}
   <li>
-    <a href="{{ page.path }}">{{ page.title }}</a>
+    <a href="{{ page.path }}">{{ page.title }}</a> <small>{{ page.date | date(format="%Y %B %e") }}</small>
   </li>
 {% endfor %}
 </ul>

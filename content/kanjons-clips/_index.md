@@ -8,5 +8,4 @@ Kanjon's Clips is my video series of short, motivation-focused art tips designed
 
 I've put together this wiki to house the occasional extra resources, as well as to provide a less-distracting way to poke through the content. But the choice of where you watch is up to you!
 
-## Recent Clips
-(reverse chronological order)
+## All Clips
