@@ -4,7 +4,7 @@ slug = "you-must-draw-awful-art"
 date = 2023-08-15T03:00:00Z
 extra.kcid = "K004"
 extra.embed_url = "https://www.youtube.com/embed/QoDPMxJQ4vo"
-draft = true
+draft = false
 +++
 
 Many people will provide some advice to beginner artists that sounds something like this: "Oh it's OK if not every drawing comes out well, you can always try again and learn from it!" And whenever someone says that I'm like, yeah, okay. But deep down we know that it doesn't always feel ok. And it's hard to get past that!

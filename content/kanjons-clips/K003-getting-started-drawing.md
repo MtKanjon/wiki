@@ -4,7 +4,7 @@ slug = "getting-started-drawing"
 date = 2023-08-15T02:00:00Z
 extra.kcid = "K003"
 extra.embed_url = "https://www.youtube.com/embed/uIlvVyg7VU0"
-draft = true
+draft = false
 +++
 
 Everyone that decides to learn to draw quickly realizes that they should be practicing _something_. When you look online for advice, you’ll often see this “tip”: Just Draw!

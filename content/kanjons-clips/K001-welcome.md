@@ -4,7 +4,7 @@ slug = "welcome"
 date = 2023-08-15T00:00:00Z
 extra.kcid = "K001"
 extra.embed_url = "https://www.youtube.com/embed/Rp9yjtMVu04"
-draft = true
+draft = false
 +++
 
 Hey there! My names Mt Kanjon and I'm here to show you Kanjon's Clips, a series of short videos designed for people with short attention spans like myself, to learn to draw and to stay motivated drawing.
