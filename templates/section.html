@@ -14,3 +14,9 @@
 </ul>
 
 {% endblock %}
+
+{% block footer %}
+<a href="https://github.com/MtKanjon/wiki/edit/main/content/{{ section.relative_path }}">edit this page</a>
+<br/><br/>
+{{ super() }}
+{% endblock footer %}
