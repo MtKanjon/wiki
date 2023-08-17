@@ -1,7 +1,7 @@
 +++
 title = "You must Draw Awful Art to Draw Good Art"
 slug = "you-must-draw-awful-art"
-date = 2023-08-15T03:00:00Z
+date = 2023-08-16T03:00:00Z
 extra.kcid = "K004"
 extra.embed_url = "https://www.youtube.com/embed/QoDPMxJQ4vo"
 draft = false

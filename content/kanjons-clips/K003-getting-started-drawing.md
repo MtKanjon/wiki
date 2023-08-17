@@ -1,7 +1,7 @@
 +++
 title = "Getting Started Drawing"
 slug = "getting-started-drawing"
-date = 2023-08-15T02:00:00Z
+date = 2023-08-16T02:00:00Z
 extra.kcid = "K003"
 extra.embed_url = "https://www.youtube.com/embed/uIlvVyg7VU0"
 draft = false
