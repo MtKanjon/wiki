@@ -3,7 +3,7 @@ title = "Anyone can Learn to Draw"
 slug = "anyone-can-learn-to-draw"
 date = 2023-08-16T01:00:00Z
 extra.kcid = "K002"
-extra.embed_url = "https://www.youtube.com/embed/jeoQx9hphBw"
+extra.youtube_id = "jeoQx9hphBw"
 draft = false
 +++
 

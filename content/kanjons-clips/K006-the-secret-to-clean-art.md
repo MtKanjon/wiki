@@ -3,7 +3,7 @@ title = "You can Learn the Secret to Clean Art"
 slug = "the-secret-to-clean-art"
 date = 2023-08-28
 extra.kcid = "K006"
-extra.embed_url = "https://www.youtube.com/embed/VdqGCE30UNY"
+extra.youtube_id = "VdqGCE30UNY"
 +++
 
 Hey look at this! It’s a smooooooth line. But how do you do that when drawing?

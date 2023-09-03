@@ -3,7 +3,7 @@ title = "You are not Too Old to Learn"
 slug = "you-are-not-too-old-to-learn"
 date = 2023-08-22
 extra.kcid = "K005"
-extra.embed_url = "https://www.youtube.com/embed/Y_HBd4KRu7U"
+extra.youtube_id = "Y_HBd4KRu7U"
 draft = false
 +++
 

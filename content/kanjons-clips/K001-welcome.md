@@ -3,7 +3,7 @@ title = "Welcome to Kanjon's Clips"
 slug = "welcome"
 date = 2023-08-16T00:00:00Z
 extra.kcid = "K001"
-extra.embed_url = "https://www.youtube.com/embed/Rp9yjtMVu04"
+extra.youtube_id = "Rp9yjtMVu04"
 draft = false
 +++
 
