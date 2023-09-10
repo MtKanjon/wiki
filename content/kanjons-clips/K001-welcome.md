@@ -4,7 +4,10 @@ slug = "welcome"
 date = 2023-08-16T00:00:00Z
 extra.kcid = "K001"
 extra.youtube_id = "Rp9yjtMVu04"
-draft = false
+extra.music = "https://pixabay.com/music/beats-lo-fi-urban-156196/"
+extra.vrchat_world = "Azuma House by Mochie"
+extra.vrchat_url = "https://vrchat.com/home/world/wrld_c70b4944-7474-44c8-ac5b-ca9ad805b6dd"
+extra.vrchat_avatar = "Freakhound by Ghost Cabbit"
 +++
 
 Hey there! My names Mt Kanjon and I'm here to show you Kanjon's Clips, a series of short videos designed for people with short attention spans like myself, to learn to draw and to stay motivated drawing.

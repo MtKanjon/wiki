@@ -4,6 +4,10 @@ slug = "the-secret-to-clean-art"
 date = 2023-08-28
 extra.kcid = "K006"
 extra.youtube_id = "VdqGCE30UNY"
+extra.music = "Water View by Simon Jomphe Lepine (via Storyblocks)"
+extra.vrchat_world = "Midnight Rooftop by ImLeXz"
+extra.vrchat_url = "https://vrchat.com/home/world/wrld_d29bb0d0-d268-42dc-8365-926f9d485505"
+extra.vrchat_avatar = "Freakhound by Ghost Cabbit"
 +++
 
 Hey look at this! It’s a smooooooth line. But how do you do that when drawing?

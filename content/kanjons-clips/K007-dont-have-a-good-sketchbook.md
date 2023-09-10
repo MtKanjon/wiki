@@ -4,6 +4,10 @@ slug = "dont-have-a-good-sketchbook"
 date = 2023-09-03
 extra.kcid = "K007"
 extra.youtube_id = "MlVYPKTVa80"
+extra.music = "Paradise Vibes by Jon Presstone (via Storyblocks)"
+extra.vrchat_world = "常夏島 Eternal Summer Island by Kemomimi_kko"
+extra.vrchat_url = "https://vrchat.com/home/world/wrld_753185da-f716-4d6a-add2-281092568a58"
+extra.vrchat_avatar = "Freakhound by Ghost Cabbit"
 +++
 
 It’s a brand new day and it’s time to draw. Do you reach for the newsprint? The tablet? The sketchbook?

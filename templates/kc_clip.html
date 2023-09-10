@@ -6,4 +6,23 @@
 
 {{ super() }}
 
+{% set vrchat_avatar = config.extra.avatars | filter(attribute="desc", value=page.extra.vrchat_avatar) | first %}
+<table class="video-info">
+  <tr>
+    <th colspan="2">Production Info</th>
+  </tr>
+  <tr>
+    <td>Music</td>
+    <td>{% if page.extra.music is starting_with("https://") %}<a href="{{ page.extra.music }}">{{ page.extra.music }}</a>{% else %}{{ page.extra.music }}{% endif %}</td>
+  </tr>
+  <tr>
+    <td>VRChat World</td>
+    <td><a href="{{ page.extra.vrchat_url }}">{{ page.extra.vrchat_world }}</a></td>
+  </tr>
+  <tr>
+    <td>VRChat Avatar</td>
+    <td><a href="{{ vrchat_avatar.url }}">{{ vrchat_avatar.desc }}</a></td>
+  </tr>
+</table>
+
 {% endblock %}

@@ -11,3 +11,8 @@ taxonomies = [
 
 [markdown]
 highlight_code = false
+
+[[extra.avatars]]
+id = "freakhound"
+desc = "Freakhound by Ghost Cabbit"
+url = "https://freakhound.com"

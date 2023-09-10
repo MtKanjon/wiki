@@ -4,7 +4,10 @@ slug = "you-must-draw-awful-art"
 date = 2023-08-16T03:00:00Z
 extra.kcid = "K004"
 extra.youtube_id = "QoDPMxJQ4vo"
-draft = false
+extra.music = "https://pixabay.com/music/beats-travel-to-the-city-8752/"
+extra.vrchat_world = "District Roboto by Fins"
+extra.vrchat_url = "https://vrchat.com/home/world/wrld_ca2c5edc-b44b-4c68-863a-9a94b04889d5"
+extra.vrchat_avatar = "Freakhound by Ghost Cabbit"
 +++
 
 Many people will provide some advice to beginner artists that sounds something like this: "Oh it's OK if not every drawing comes out well, you can always try again and learn from it!" And whenever someone says that I'm like, yeah, okay. But deep down we know that it doesn't always feel ok. And it's hard to get past that!

@@ -4,7 +4,10 @@ slug = "getting-started-drawing"
 date = 2023-08-16T02:00:00Z
 extra.kcid = "K003"
 extra.youtube_id = "uIlvVyg7VU0"
-draft = false
+extra.music = "https://pixabay.com/music/solo-guitar-the-beat-of-nature-122841/"
+extra.vrchat_world = "Amber Glade by Mankey"
+extra.vrchat_url = "https://vrchat.com/home/world/wrld_bfbfef9d-3084-41b5-b68a-97b2667a04c8"
+extra.vrchat_avatar = "Freakhound by Ghost Cabbit"
 +++
 
 Everyone that decides to learn to draw quickly realizes that they should be practicing _something_. When you look online for advice, you’ll often see this “tip”: Just Draw!

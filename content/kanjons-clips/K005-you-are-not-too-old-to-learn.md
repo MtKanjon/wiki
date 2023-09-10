@@ -4,7 +4,10 @@ slug = "you-are-not-too-old-to-learn"
 date = 2023-08-22
 extra.kcid = "K005"
 extra.youtube_id = "Y_HBd4KRu7U"
-draft = false
+extra.music = "https://pixabay.com/music/beats-lofi-study-112191/"
+extra.vrchat_world = "Abstract:Echo by Lura_"
+extra.vrchat_url = "https://vrchat.com/home/world/wrld_2638773e-483a-430c-a139-a80a463e489a"
+extra.vrchat_avatar = "Freakhound by Ghost Cabbit"
 +++
 
 You're not too old for art, dummy!

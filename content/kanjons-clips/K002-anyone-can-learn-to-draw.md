@@ -4,7 +4,10 @@ slug = "anyone-can-learn-to-draw"
 date = 2023-08-16T01:00:00Z
 extra.kcid = "K002"
 extra.youtube_id = "jeoQx9hphBw"
-draft = false
+extra.music = "https://pixabay.com/music/beats-tvari-tokyo-cafe-159065"
+extra.vrchat_world = "The Conservatory by TOADSTORM"
+extra.vrchat_url = "https://vrchat.com/home/world/wrld_2e37b570-7f57-46d5-9ef5-e33d1326c70b"
+extra.vrchat_avatar = "Freakhound by Ghost Cabbit"
 +++
 
 YOU can learn to draw.
