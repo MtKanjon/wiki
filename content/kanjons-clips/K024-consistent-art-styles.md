@@ -1,5 +1,5 @@
 +++
-title = "Who Finds at Art Style?"
+title = "Who Finds an Art Style?"
 slug = "consistent-art-styles"
 date = 2023-12-30
 extra.kcid = "K024"
